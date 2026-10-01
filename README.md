@@ -16,7 +16,7 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 | 📦 **Package** | `@IkyVanx/baileys-vanx` |
 | 🏷️ **Version** | `8.5.3` |
 | 💬 **Telegram** | [t.me/Iky_125](https://t.me/Iky_125) |
-| 🐙 **GitHub** | [github.com/Iky_125](https://github.com/IkyVanx) |
+| 🐙 **GitHub** | [github.com/IkyVanx](https://github.com/IkyVanx) |
 
 ---
 
