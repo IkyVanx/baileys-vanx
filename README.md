@@ -1,22 +1,22 @@
-# @badzz88/baileys
+# @IkyVanx/baileys-vanx
 
 A high-performance WhatsApp Web library built on [Baileys](https://github.com/WhiskeySockets/Baileys), with critical paths accelerated via a [Rust WASM bridge](https://github.com/7ucg/whatsapp-rust-bridge).
 
 <p align="center">
-  <img alt="package" src="https://img.shields.io/badge/package-%40badzz88%2Fbaileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img alt="package" src="https://img.shields.io/badge/package-%40IkyVanx%2Fbaileys-vanx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <img alt="version" src="https://img.shields.io/badge/version-1.1.8-blue?style=for-the-badge">
 </p>
 <p align="center">
-  <a href="https://t.me/FoxsSql"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FoxsSql-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/Badzz88"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://t.me/Iky_125"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Iky_125-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/IkyVanx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 | | |
 |---|---|
-| 📦 **Package** | `@badzz88/baileys` |
+| 📦 **Package** | `@IkyVanx/baileys-vanx` |
 | 🏷️ **Version** | `8.5.3` |
-| 💬 **Telegram** | [t.me/FoxsSql](https://t.me/FoxsSql) |
-| 🐙 **GitHub** | [github.com/Badzz88](https://github.com/Badzz88) |
+| 💬 **Telegram** | [t.me/Iky_125](https://t.me/Iky_125) |
+| 🐙 **GitHub** | [github.com/Iky_125](https://github.com/IkyVanx) |
 
 ---
 
